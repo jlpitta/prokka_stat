@@ -14,4 +14,10 @@ Se todas os arquivos e pastas estiverem nos locais corretos, basta excutar o scr
 
 ./prokka_stat.pl
 
-chmod +x prokka_stat.pl  
+chmod +x prokka_stat.pl
+
+## BAIXAR ESTRUTURA COMPLETA DIRETO DO GITHUB ##
+
+Para baixar o script já com a pasta input_files, alguns arquivos para teste e um arquivo de resultado use o git clone conforme abaixo
+
+git clone https://github.com/jlpitta/prokka_stat  
