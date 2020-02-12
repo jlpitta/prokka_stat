@@ -1,0 +1,17 @@
+Fiocruz/PE
+Autor: João Pitta (jlpitta82@gmail.com)
+21/02/2020
+
+### Instruções para o script prokka_stat.pl ###
+
+## INTRODUÇÃO ##
+
+O script prokka_stat.pl lê todos os arquivos "txt" de output do Prokka que estiverem na pasta input_files e gera um arquivo tabular "csv" que pode ser importado para uma planilha eletrônica. O script salva o resultado no arquivo result_stat.csv. Para executar o script basta verificar se o mesmo está com permissão de execução, se a pasta input_files existe na mesma pasta onde encontra-se o script e se os arquivos "txt" de output do Prokka foram colocados dentro da pasta input_files.
+
+## COMO EXECUTAR ##
+
+Se todas os arquivos e pastas estiverem nos locais corretos, basta excutar o script conforme abaixo
+
+./prokka_stat.pl
+
+chmod +x prokka_stat.pl  
