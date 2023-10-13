@@ -12,9 +12,9 @@ O script prokka_stat.pl lê todos os arquivos "txt" de output do Prokka que esti
 
 Se todas os arquivos e pastas estiverem nos locais corretos, basta excutar o script conforme abaixo
 
-./prokka_stat.pl
-
 chmod +x prokka_stat.pl
+
+./prokka_stat.pl
 
 ## BAIXAR ESTRUTURA COMPLETA DIRETO DO GITHUB ##
 
